@@ -1,11 +1,5 @@
 #EXTM3U 
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/130990_5427_RM_SEV_fc-web_1765803328431.png" group-title="Fancode-Football", Real Madrid vs Sevilla FC (LALIGA 2025-26)
-https://bd-mc-fdlive.fancode.com/mumbai/130990_english_hls_c8f61dfffc635_1ta-di_h264/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/PNC-Championship_FC-Web_1766132279851.jpg" group-title="Fancode-Golf", Day 2 vs Ritz-Carlton Golf Club (PNC Championship 2025)
-https://bd-mc-fdlive.fancode.com/mumbai/138961_english_hls_d6e276404364593_1ta-di_h264/index.m3u8
-
 #EXTINF:-1 tvg-id="1" tvg-name="T Sports BD" tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4" group-title="Live",T Sports BD
 https://mrzplayin.fun/roarzon/stream.php?id=cc1213f0ee0c6fc5eb98ca0685a4d223&e=.m3u8
 
