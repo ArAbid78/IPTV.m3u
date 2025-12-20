@@ -70,6 +70,8 @@ https://tvsen6.aynaott.com/channel9/index.m3u8
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="COLOR BANGLA HD " tvg-logo="" group-title="Bangali",COLOR BANGLA HD 
 https://mrzplayin.fun/roarzon/stream.php?id=e8bcb5c4e70519342363881aca82c877&e=.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="Enterr10 Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Enterr10_Bangla_Logo_%282020%29.png/250px-Enterr10_Bangla_Logo_%282020%29.png" group-title="Bangali",Enterr10 Bangla
+https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="STAR JOLSHA HD" tvg-logo="https://nettv.fun/playlist/bdix/logo/30.png" group-title="Bangali",STAR JOLSHA HD
 https://mrzplayin.fun/roarzon/stream.php?id=5c668914d9971acd724c4d6c06befccf&e=.m3u8
 http://172.19.178.59:18190/star_jalsha_hd/index.fmp4.m3u8?token=993c1f2c52f868539cf1cfed8cf3f3dce13967ce-64075de05d2f570d48653603fe5c4f25-1766084180-1766073380
