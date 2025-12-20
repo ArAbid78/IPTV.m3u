@@ -1,0 +1,126 @@
+#EXTM3U 
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Test_old.jpg" group-title="Fancode-Cricket", New Zealand vs West Indies (West Indies tour of New Zealand- 2025)
+https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-wivsnz/master.m3u8?hdnea=exp=1766223119~acl=/*~id=17502696892215825518405472694606~hmac=e30080581acdd5073119fcc571b3701b7ff5775163205b21e712a040ab80ef2f
+
+#EXTINF:-1 tvg-id="1" tvg-name="T Sports BD" tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4" group-title="Live",T Sports BD
+https://mrzplayin.fun/roarzon/stream.php?id=cc1213f0ee0c6fc5eb98ca0685a4d223&e=.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="PTV SPORTS " tvg-logo="https://s3.aynaott.com/storage/9d9d7cbfba5a8ceea648bbd963ad1014" group-title="Live",PTV SPORTS 
+https://tvsen5.aynascope.net/PtvSports/index.m3u8?e=1766100007&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=031785b02b0a7fbb4fb1df0e9e2300f7
+
+Bangali 🇧🇩
+
+#EXTINF:-1 tvg-id="1" tvg-name="গোপাল ভাঁড় " tvg-logo="https://d1or4efq32i6bx.cloudfront.net/licensing/media_content/2_336.png" group-title="Bangali",গোপাল ভাঁড় 
+https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="Movie Bangla " tvg-logo="https://nettv.fun/playlist/bdix/logo/86.png" group-title="Bangali",Movie Bangla 
+https://mrzplayin.fun/roarzon/stream.php?id=ca85646836937816ce7f24138fd40fad&e=.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="BTV" tvg-logo="https://nettv.fun/playlist/bdix/logo/53.png" group-title="Bangali",BTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8 
+#EXTINF:-1 tvg-id="4" tvg-name="Rtv" tvg-logo="https://nettv.fun/playlist/bdix/logo/14.png" group-title="Bangali",Rtv
+https://mrzplayin.fun/roarzon/stream.php?id=9fe7c84b8253e88099d47237e0b7367c&e=.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="DBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="Bangali",DBC
+https://mrzplayin.fun/roarzon/stream.php?id=55066b147ab7004c97d8b380c7e8acd1&e=.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="Ekattor" tvg-logo="https://nettv.fun/playlist/bdix/logo/11.png" group-title="Bangali",Ekattor
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="Independent " tvg-logo="https://nettv.fun/playlist/bdix/logo/12.png" group-title="Bangali",Independent 
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="Jamuna" tvg-logo="https://nettv.fun/playlist/bdix/logo/13.png" group-title="Bangali",Jamuna
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="NTV " tvg-logo="https://www.ntvbd.com/sites/default/files/aggregator/2020/02/17/ntv-channel_0.jpg" group-title="Bangali",NTV 
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="ATN Bangla " tvg-logo="https://nettv.fun/playlist/bdix/logo/2.png" group-title="Bangali",ATN Bangla 
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="ATN NEWS " tvg-logo="https://nettv.fun/playlist/bdix/logo/49.png" group-title="Bangali",ATN NEWS 
+https://mrzplayin.fun/roarzon/stream.php?id=10470c78392c8c60a74616b252030710&e=.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="Somoy " tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c4/SOMOY_TV_Logo.svg" group-title="Bangali",Somoy 
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="Bangla Vision " tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Banglavision.svg" group-title="Bangali",Bangla Vision 
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="Depto" tvg-logo="https://nettv.fun/playlist/bdix/logo/8.png" group-title="Bangali",Depto
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
+https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="Maasranga" tvg-logo="https://nettv.fun/playlist/bdix/logo/51.png" group-title="Bangali",Maasranga
+https://mrzplayin.fun/roarzon/stream.php?id=f9eb709bbbe1e58c30ff208b705853e9&e=.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="Boishakhi" tvg-logo="http://tvassets.roarzone.info/images/61.png" group-title="Bangali",Boishakhi
+https://mrzplayin.fun/roarzon/stream.php?id=53579dba04b52a5b6915e28cb31451aa&e=.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="My Tv Hd" tvg-logo="" group-title="Bangali",My Tv Hd
+
+#EXTINF:-1 tvg-id="2" tvg-name="Channel 24" tvg-logo="https://nettv.fun/playlist/bdix/logo/5.png" group-title="Bangali",Channel 24
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="Channel I " tvg-logo="https://nettv.fun/playlist/bdix/logo/6.png" group-title="Bangali",Channel I 
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="Channel 9" tvg-logo="" group-title="Bangali",Channel 9
+https://tvsen6.aynaott.com/channel9/index.m3u8
+
+#EXTINF:-1 tvg-id="5" tvg-name="SRK TV " tvg-logo="" group-title="Bangali",SRK TV 
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="COLOR BANGLA HD " tvg-logo="" group-title="Bangali",COLOR BANGLA HD 
+https://mrzplayin.fun/roarzon/stream.php?id=e8bcb5c4e70519342363881aca82c877&e=.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="STAR JOLSHA HD" tvg-logo="https://nettv.fun/playlist/bdix/logo/30.png" group-title="Bangali",STAR JOLSHA HD
+https://mrzplayin.fun/roarzon/stream.php?id=5c668914d9971acd724c4d6c06befccf&e=.m3u8
+http://172.19.178.59:18190/star_jalsha_hd/index.fmp4.m3u8?token=993c1f2c52f868539cf1cfed8cf3f3dce13967ce-64075de05d2f570d48653603fe5c4f25-1766084180-1766073380
+https://aynaott.unosottor.workers.dev/bpk-tv/sjhdbd.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="Zee BANGLA HD " tvg-logo="" group-title="Bangali",Zee BANGLA HD 
+
+http://87.255.35.150:18238
+#EXTINF:-1 tvg-id="1" tvg-name="Sun Bangla " tvg-logo="" group-title="Bangali",Sun Bangla 
+http://172.19.178.59:18190/sun_bangla_hd/index.fmp4.m3u8?token=da8581ba06322ce6bcbf4ec9497e6015c5deca6c-8b04c510eb5e56f2e0212a762577e86e-1766084357-1766073557
+https://smart.bengaldigital.live/sun-bangla-paid/index.m3u8
+#EXTINF:-1 tvg-id="21" tvg-name="ZEE BANGLA HD" tvg-logo="https://nettv.fun/playlist/bdix/logo/34.png" group-title="Bangali",ZEE BANGLA HD
+https://mrzplayin.fun/roarzon/stream.php?id=ae9d85390de4bbb2e18ace32a5960bbd&e=.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="Zee Bangla Cinema " tvg-logo="https://nettv.fun/playlist/bdix/logo/29.png" group-title="Bangali",Zee Bangla Cinema 
+https://mrzplayin.fun/roarzon/stream.php?id=8b541bd4fc7c64847daec90951d71307&e=.m3u8
+
+ISLAMIC 🕌
+
+#EXTINF:-1 tvg-id="4" tvg-name="Peace tv Bangla" tvg-logo="" group-title="Islamic ",Peace tv Bangla
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
+
+HINDI 🇮🇳
+
+#EXTINF:-1 tvg-id="1" tvg-name="Z Action " tvg-logo="https://nettv.fun/playlist/bdix/logo/90.png" group-title="Hindi ",Z Action 
+https://mrzplayin.fun/roarzon/stream.php?id=6e79a5d37e5834e0429a155067223517&e=.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="Z Bollywood " tvg-logo="https://nettv.fun/playlist/bdix/logo/94.png" group-title="Hindi ",Z Bollywood 
+https://mrzplayin.fun/roarzon/stream.php?id=01d7f3c97af4a44173ef21ca6fb5c7c8&e=.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="Z Cafe " tvg-logo="https://nettv.fun/playlist/bdix/logo/69.png" group-title="Hindi ",Z Cafe 
+https://mrzplayin.fun/roarzon/stream.php?id=baacaf168b870ab2f757e7804f9ba59d&e=.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="Z Tv" tvg-logo="https://nettv.fun/playlist/bdix/logo/40.png" group-title="Hindi ",Z Tv
+https://mrzplayin.fun/roarzon/stream.php?id=14af6f57fc69157be22737b60c5183b7&e=.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="Z Anmol" tvg-logo="https://nettv.fun/playlist/bdix/logo/zee-anmol.png" group-title="Hindi ",Z Anmol
+https://mrzplayin.fun/roarzon/stream.php?id=3521b91f5a0e776f527c8634d72d2926&e=.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="SONY SAB" tvg-logo="" group-title="Hindi ",SONY SAB
+http://87.255.35.150:18810
+#EXTINF:-1 tvg-id="5" tvg-name="STAR PLUS HD" tvg-logo="https://nettv.fun/playlist/bdix/logo/67.png" group-title="Hindi ",STAR PLUS HD
+https://mrzplayin.fun/roarzon/stream.php?id=08b34060f7de766fc7706d14dc6deef5&e=.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="Hum Tv" tvg-logo="https://nettv.fun/playlist/bdix/logo/humtv.png" group-title="Hindi ",Hum Tv
+https://mrzplayin.fun/roarzon/stream.php?id=48d674db3aab64240dfc425c1a10d050&e=.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="Hum Masala " tvg-logo="https://nettv.fun/playlist/bdix/logo/hummasala.png" group-title="Hindi ",Hum Masala 
+https://mrzplayin.fun/roarzon/stream.php?id=497f57d36dba1a8e42f821084df702b2&e=.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="Hum Sitarey" tvg-logo="https://nettv.fun/playlist/bdix/logo/humsitarey.png" group-title="Hindi ",Hum Sitarey
+https://mrzplayin.fun/roarzon/stream.php?id=93be990711d9f8977ebe75ae13820dbb&e=.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="& Picture " tvg-logo="https://nettv.fun/playlist/bdix/logo/100.png" group-title="Hindi ",& Picture 
+https://mrzplayin.fun/roarzon/stream.php?id=f1e2d264440ebae7d1f98c8987084dc6&e=.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="SONY MAX HD" tvg-logo="https://nettv.fun/playlist/bdix/logo/sonymaxhd.png" group-title="Hindi ",SONY MAX HD
+https://mrzplayin.fun/roarzon/stream.php?id=893cae26e4f3583b49d7eb86e0c27d19&e=.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="Sony Max" tvg-logo="https://nettv.fun/playlist/bdix/logo/sonymax.png" group-title="Hindi ",Sony Max
+https://mrzplayin.fun/roarzon/stream.php?id=a004143fee5afd56fa42358de7e00170&e=.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="Sony Max 2" tvg-logo="https://nettv.fun/playlist/bdix/logo/sonymax2.png" group-title="Hindi ",Sony Max 2
+https://mrzplayin.fun/roarzon/stream.php?id=a99e6ccb22708a383e350b62edb941c4&e=.m3u8
+#EXTINF:-1 tvg-id="19" tvg-name="ZEE CINEMA HD" tvg-logo="https://nettv.fun/playlist/bdix/logo/76.png" group-title="Hindi ",ZEE CINEMA HD
+https://mrzplayin.fun/roarzon/stream.php?id=1d827bbbe8ce50d2dec15dd0a51111b6&e=.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="STAR GOLD HD" tvg-logo="https://nettv.fun/playlist/bdix/logo/75.png" group-title="Hindi ",STAR GOLD HD
+https://mrzplayin.fun/roarzon/stream.php?id=3eef0c9777e4ffc85045bb13ffbf12fb&e=.m3u8
+
+Sports 🏅
+
+#EXTINF:-1 tvg-id="1" tvg-name="Star Sports 1 HD" tvg-logo="https://s3.aynaott.com/storage/64fb82ecdef7d8b182c944c639c4f8b7" group-title="Sports",Star Sports 1 HD
+https://mrzplayin.fun/roarzon/stream.php?id=18283d4f5f13c0cac5cab4433a0ed8f0&e=.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="STAR SPORTS 2 HD" tvg-logo="https://s3.aynaott.com/storage/daeac3b0e17bfabd911bd5dc63c69aa8" group-title="Sports",STAR SPORTS 2 HD
+https://mrzplayin.fun/roarzon/stream.php?id=1e8e3ca973f7808849df688219554a90&e=.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="Star Sports Select 1" tvg-logo="https://s3.aynaott.com/storage/c96957383c33f1948e34fdcc07fbc29f" group-title="Sports",Star Sports Select 1
+https://mrzplayin.fun/roarzon/stream.php?id=b8966a010354b3b97eb8c050ea73460f&e=.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="Star Sports Select 2 HD" tvg-logo="https://s3.aynaott.com/storage/16ee3a1243424dfe8f4341a90afbd46e" group-title="Sports",Star Sports Select 2 HD
+https://mrzplayin.fun/roarzon/stream.php?id=cf33278a403f3b61fc708fb1cc2676df&e=.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="Ten Cricket " tvg-logo="https://nettv.fun/playlist/bdix/logo/ten_cricket.png" group-title="Sports ",Ten Cricket 
+https://mrzplayin.fun/roarzon/stream.php?id=212f6ccc690a978b72b758522a82d9b4&e=.m3u8
+
