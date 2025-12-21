@@ -135,3 +135,5 @@ MOVIES
 
 #EXTINF:-1 tvg-id="1" tvg-name="Dhurandhar 2025" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Dhurandhar%20%282025%29%201080p%20HDTC%20V2/a_AL_.jpg" group-title="Movies",Dhurandhar 2025
 http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Dhurandhar%20%282025%29%201080p%20HDTC%20V2/Dhurandhar%20%282025%29%20Hindi%201080p%20HDTC%20x264%20AAC%20-%20CineVood.mkv
+#EXTINF:-1 tvg-id="1" tvg-name="Avatar.Fire.and.Ash.2025" tvg-logo="http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282025%29/Avatar-Fire%20and%20Ash%202025%20720p%20HDTS/a_AL_.jpg" group-title="Movies",Avatar.Fire.and.Ash.2025
+http://160.187.56.254:8096/emby/videos/1009607/original.mkv?DeviceId=520047a9-7e19-4844-b091-cd84a5d9b323&MediaSourceId=mediasource_1009607&PlaySessionId=8d35914e3f074575bbbe2bfd5765317d&api_key=d923abe2087d449ab1b58a89930a7f2c#t=2483.19661
