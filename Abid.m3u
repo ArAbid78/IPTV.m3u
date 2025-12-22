@@ -105,20 +105,20 @@ https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
 #KODIPROP:inputstream.adaptive.license_key=4023613457774cbeb71a62c339970e63:1c3e9fce5f014542be9cd1f749181204
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol/default/manifest.mpd
 
-#EXTINF:-1 tvg-id="3" tvg-name="Z Cafe " tvg-logo="https://nettv.fun/playlist/bdix/logo/69.png" group-title="Hindi ",Z Cafe 
+#EXTINF:-1 tvg-id="3" tvg-name="Z Cafe " tvg-logo="https://nettv.fun/playlist/bdix/logo/69.png" group-title="Hindi",Z Cafe 
 https://mrzplayin.fun/roarzon/stream.php?id=baacaf168b870ab2f757e7804f9ba59d&e=.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="Z Tv" tvg-logo="https://nettv.fun/playlist/bdix/logo/40.png" group-title="Hindi ",Z Tv
+#EXTINF:-1 tvg-id="4" tvg-name="Z Tv" tvg-logo="https://nettv.fun/playlist/bdix/logo/40.png" group-title="Hindi",Z Tv
 https://mrzplayin.fun/roarzon/stream.php?id=14af6f57fc69157be22737b60c5183b7&e=.m3u8
 
-#EXTINF:-1 tvg-id="4" tvg-name="SONY SAB" tvg-logo="" group-title="Hindi ",SONY SAB
+#EXTINF:-1 tvg-id="4" tvg-name="SONY SAB" tvg-logo="" group-title="Hindi",SONY SAB
 http://87.255.35.150:18810
-#EXTINF:-1 tvg-id="5" tvg-name="STAR PLUS HD" tvg-logo="https://nettv.fun/playlist/bdix/logo/67.png" group-title="Hindi ",STAR PLUS HD
+#EXTINF:-1 tvg-id="5" tvg-name="STAR PLUS HD" tvg-logo="https://nettv.fun/playlist/bdix/logo/67.png" group-title="Hindi",STAR PLUS HD
 https://mrzplayin.fun/roarzon/stream.php?id=08b34060f7de766fc7706d14dc6deef5&e=.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="Hum Tv" tvg-logo="https://nettv.fun/playlist/bdix/logo/humtv.png" group-title="Hindi ",Hum Tv
+#EXTINF:-1 tvg-id="5" tvg-name="Hum Tv" tvg-logo="https://nettv.fun/playlist/bdix/logo/humtv.png" group-title="Hindi",Hum Tv
 https://mrzplayin.fun/roarzon/stream.php?id=48d674db3aab64240dfc425c1a10d050&e=.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="Hum Masala " tvg-logo="https://nettv.fun/playlist/bdix/logo/hummasala.png" group-title="Hindi ",Hum Masala 
+#EXTINF:-1 tvg-id="6" tvg-name="Hum Masala " tvg-logo="https://nettv.fun/playlist/bdix/logo/hummasala.png" group-title="Hindi",Hum Masala 
 https://mrzplayin.fun/roarzon/stream.php?id=497f57d36dba1a8e42f821084df702b2&e=.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="Hum Sitarey" tvg-logo="https://nettv.fun/playlist/bdix/logo/humsitarey.png" group-title="Hindi ",Hum Sitarey
+#EXTINF:-1 tvg-id="7" tvg-name="Hum Sitarey" tvg-logo="https://nettv.fun/playlist/bdix/logo/humsitarey.png" group-title="Hindi",Hum Sitarey
 https://mrzplayin.fun/roarzon/stream.php?id=93be990711d9f8977ebe75ae13820dbb&e=.m3u8
 
 
