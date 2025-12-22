@@ -64,24 +64,58 @@ https://tvsen6.aynaott.com/channel9/index.m3u8
 
 ========================================================== IN-BANGLA ==========================================================================================================
 
-#EXTINF:-1 tvg-id="5" tvg-name="SRK TV " tvg-logo="" group-title="Bangali",SRK TV 
-https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="COLOR BANGLA HD " tvg-logo="" group-title="Bangali",COLOR BANGLA HD 
-https://mrzplayin.fun/roarzon/stream.php?id=e8bcb5c4e70519342363881aca82c877&e=.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="Enterr10 Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Enterr10_Bangla_Logo_%282020%29.png/250px-Enterr10_Bangla_Logo_%282020%29.png" group-title="Bangali",Enterr10 Bangla
+#EXTINF:-1 tvg-id="ed1ad924-f9f2-4302-97df-987bffb2b32e" tvg-name="Aakaash Bangla TV" tvg-logo="https://s3.aynaott.com/storage/04a8e0917184b617f74b85f98a8cf983" group-title="Indian Bangla",Aakaash Bangla TV
+https://tvsen5.aynaott.com/Wm9Lv2RjZGT6/index.m3u8
+#EXTINF:-1 tvg-id="3aa4d27d-91e1-4afe-a6b5-de35beefae4f" tvg-name="Rupshi Bangla" tvg-logo="https://s3.aynaott.com/storage/f4cdc5974a02f63c833146ad8856fb3b" group-title="Indian Bangla",Rupshi Bangla
+https://ayna-ott.sm-monirulislam-exp.workers.dev/RupshiBangla/index.m3u8
+#EXTINF:-1 tvg-id="dc4a5da2-9423-4c3a-ac8e-62086ff7b6f1" tvg-name="Khushboo" tvg-logo="https://s3.aynaott.com/storage/d90eb718a6674494d2dac28e1d96bf44" group-title="Indian Bangla",Khushboo
+https://cdn-4.pishow.tv/live/1473/master.m3u8
+#EXTINF:-1 tvg-id="7141c05b-97cd-4dd1-9584-423c7a5ce13d" tvg-name="Republic Bangla" tvg-logo="https://s3.aynaott.com/storage/18cb20e8e53eb27249c62d3aedf51241" group-title="Indian Bangla",Republic Bangla
+https://tvsen5.aynaott.com/R_Bangla/index.m3u8
+#EXTINF:-1 tvg-id="4b351549-878b-4f99-88ed-a50e7a4aa84b" tvg-name="TV9 Bangla" tvg-logo="https://s3.aynaott.com/storage/7b93f6be496c9fd25769b09970180c4c" group-title="Indian Bangla",TV9 Bangla
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-id="71b599fa-1284-46c3-a2de-9eaab38d74de" tvg-name="Zee 24 Ghanta" tvg-logo="https://s3.aynaott.com/storage/fea79ac5193dd9fb80aa1996f2adc1e2" group-title="Indian Bangla",Zee 24 Ghanta
+https://ayna-ott.sm-monirulislam-exp.workers.dev/zee24/index.m3u8
+#EXTINF:-1 tvg-id="262789f8-92af-4738-986c-c5deafeef997" tvg-name="kolkata TV" tvg-logo="https://s3.aynaott.com/storage/c355110e9cbebd89649a95f0f0fd77da" group-title="Indian Bangla",kolkata TV
+https://ayna-ott.sm-monirulislam-exp.workers.dev/kolkatatv/index.m3u8
+#EXTINF:-1 tvg-id="f7ef6919-d8e1-42da-8f34-ddd3364c27c1" tvg-name="Assam Talks" tvg-logo="https://s3.aynaott.com/storage/e7d8cff366343b850d04a655c6fbf2ff" group-title="Indian Bangla",Assam Talks
+https://tvsen7.aynaott.com/AssamTalks/index.m3u8
+#EXTINF:-1 tvg-id="8dc64f21-7dc8-4a41-a583-ddec9f112aeb" tvg-name="R Plus" tvg-logo="https://s3.aynaott.com/storage/9531f970bb7abf30ac2a48f40838c3a1" group-title="Indian Bangla",R Plus
+https://ayna-ott.sm-monirulislam-exp.workers.dev/Rplus/index.m3u8
+#EXTINF:-1 tvg-id="28d6e51f-2e35-4c83-9f18-3cf2b8ad1b77" tvg-name="R Plus Gold" tvg-logo="https://s3.aynaott.com/storage/5a7f80e9417b452051a0e75db768e796" group-title="Indian Bangla",R Plus Gold
+https://ayna-ott.sm-monirulislam-exp.workers.dev/RplusGold/index.m3u8
+#EXTINF:-1 tvg-id="c8080032-034e-4f04-b1ee-0847a6e62a41" tvg-name="News Time Bangla" tvg-logo="https://s3.aynaott.com/storage/b051fa53014fff26dabf744955969810" group-title="Indian Bangla",News Time Bangla
+https://ayna-ott.sm-monirulislam-exp.workers.dev/NewsTime/index.m3u8
+#EXTINF:-1 tvg-id="791d2a93-1736-4114-852e-2331fa441799" tvg-name="Rongeen TV" tvg-logo="https://s3.aynaott.com/storage/296b530024a470f52313692636810e04" group-title="Indian Bangla",Rongeen TV
+https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
+#EXTINF:-1 tvg-id="8df44874-5511-4c78-a854-8ab6dd6861e5" tvg-name="DD Bangla" tvg-logo="https://s3.aynaott.com/storage/e5117c508d18adf0a3f2475eb1fd5a9d" group-title="Indian Bangla",DD Bangla
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8
+#EXTINF:-1 tvg-id="1092effd-ec5f-4842-a9eb-09db84a23415" tvg-name="Enter 10 Bangla" tvg-logo="https://s3.aynaott.com/storage/2b00567c538d392c8050124f0064c4a1" group-title="Indian Bangla",Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="STAR JOLSHA HD" tvg-logo="https://nettv.fun/playlist/bdix/logo/30.png" group-title="Bangali",STAR JOLSHA HD
+#EXTINF:-1 tvg-id="890a1a92-0602-4c2d-93ca-a2c43e7aec54" tvg-name="Zee Bangla International" tvg-logo="https://s3.aynaott.com/storage/0cb865748deefd42e69fd9a221cf38ee" group-title="Indian Bangla",Zee Bangla International
+https://tvsen5.aynaott.com/PNEb3v2q6GBk/index.m3u8
+#EXTINF:-1 tvg-id="f07177e9-d1a9-48b4-8e2e-1718d098bbfb" tvg-name="Star Jalsha HD" tvg-logo="https://s3.aynaott.com/storage/890de862bcd876c54da7f3c0a3af0515" group-title="Indian Bangla",Star Jalsha HD
+https://tvsen7.aynaott.com/sjhdbd/index.m3u8
+#EXTINF:-1 tvg-id="ff14d64f-0fcb-45af-8313-9ae3ff788052" tvg-name="Zee Bangla Sonar" tvg-logo="https://s3.aynaott.com/storage/1f25888b68626ed736acf35824905916" group-title="Indian Bangla",Zee Bangla Sonar
+https://ayna-ott.sm-monirulislam-exp.workers.dev/ZeeBanglaCinema/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="SRK TV " tvg-logo="" group-title="Indian Bangla",SRK TV 
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="COLOR BANGLA HD " tvg-logo="" group-title="Indian Bangla",COLOR BANGLA HD 
+https://mrzplayin.fun/roarzon/stream.php?id=e8bcb5c4e70519342363881aca82c877&e=.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="Enterr10 Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Enterr10_Bangla_Logo_%282020%29.png/250px-Enterr10_Bangla_Logo_%282020%29.png" group-title="Indian Bangla",Enterr10 Bangla
+https://live-bangla.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="STAR JOLSHA HD" tvg-logo="https://nettv.fun/playlist/bdix/logo/30.png" group-title="Indian Bangla",STAR JOLSHA HD
 https://mrzplayin.fun/roarzon/stream.php?id=5c668914d9971acd724c4d6c06befccf&e=.m3u8
 http://172.19.178.59:18190/star_jalsha_hd/index.fmp4.m3u8?token=993c1f2c52f868539cf1cfed8cf3f3dce13967ce-64075de05d2f570d48653603fe5c4f25-1766084180-1766073380
 https://aynaott.unosottor.workers.dev/bpk-tv/sjhdbd.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="Zee BANGLA HD " tvg-logo="" group-title="Bangali",Zee BANGLA HD 
+#EXTINF:-1 tvg-id="2" tvg-name="Zee BANGLA HD " tvg-logo="" group-title="Indian Bangla",Zee BANGLA HD 
 http://87.255.35.150:18238
-#EXTINF:-1 tvg-id="1" tvg-name="Sun Bangla " tvg-logo="" group-title="Bangali",Sun Bangla 
+#EXTINF:-1 tvg-id="1" tvg-name="Sun Bangla " tvg-logo="" group-title="Indian Bangla",Sun Bangla 
 http://172.19.178.59:18190/sun_bangla_hd/index.fmp4.m3u8?token=da8581ba06322ce6bcbf4ec9497e6015c5deca6c-8b04c510eb5e56f2e0212a762577e86e-1766084357-1766073557
 https://smart.bengaldigital.live/sun-bangla-paid/index.m3u8
-#EXTINF:-1 tvg-id="21" tvg-name="ZEE BANGLA HD" tvg-logo="https://nettv.fun/playlist/bdix/logo/34.png" group-title="Bangali",ZEE BANGLA HD
+#EXTINF:-1 tvg-id="21" tvg-name="ZEE BANGLA HD" tvg-logo="https://nettv.fun/playlist/bdix/logo/34.png" group-title="Indian Bangla",ZEE BANGLA HD
 https://mrzplayin.fun/roarzon/stream.php?id=ae9d85390de4bbb2e18ace32a5960bbd&e=.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="Zee Bangla Cinema " tvg-logo="https://nettv.fun/playlist/bdix/logo/29.png" group-title="Bangali",Zee Bangla Cinema 
+#EXTINF:-1 tvg-id="5" tvg-name="Zee Bangla Cinema " tvg-logo="https://nettv.fun/playlist/bdix/logo/29.png" group-title="Indian Bangla",Zee Bangla Cinema 
 https://mrzplayin.fun/roarzon/stream.php?id=8b541bd4fc7c64847daec90951d71307&e=.m3u8
 
 
