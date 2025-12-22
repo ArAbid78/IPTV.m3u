@@ -166,10 +166,7 @@ https://mrzplayin.fun/roarzon/stream.php?id=212f6ccc690a978b72b758522a82d9b4&e=.
 
 
 
-
-MOVIES 
-
-#EXTINF:-1 tvg-id="1" tvg-name="Dhurandhar 2025" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Dhurandhar%20%282025%29%201080p%20HDTC%20V2/a_AL_.jpg" group-title="Movies",Dhurandhar 2025
-http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Dhurandhar%20%282025%29%201080p%20HDTC%20V2/Dhurandhar%20%282025%29%20Hindi%201080p%20HDTC%20x264%20AAC%20-%20CineVood.mkv
-#EXTINF:-1 tvg-id="1" tvg-name="Aaryan (2025)" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282025%29/Aaryan%20%282025%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg" group-title="Movies",Aaryan (2025)
-http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282025%29/Aaryan%20%282025%29%201080p%20%5BDual%20Audio%5D/Aaryan%20%282025%29%20UNCUT%201080p%20WEBRip%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BTamil%205.1%5D%20-HDHub.mkv
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/vunjev.jpeg" group-title="Times play",MNX HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
