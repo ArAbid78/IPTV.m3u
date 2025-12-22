@@ -533,6 +533,10 @@ https://live2.shoq.com.pk/live/eds/NHK_World/DASH/NHK_World.mpd
 #KODIPROP:inputstream.adaptive.license_key=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
 https://edge3-moblive.yuppcdn.net:443/drm/smil:nflixdrm.smil/manifest.mpd
 
+
+#EXTINF:-1 tvg-id="star movies" tvg-name="star movies" tvg-logo="http://tvassets.roarzone.info/images/starmovies.png" group-title="English",star movies
+http://103.166.152.22:8080/roarzone/bk/starmovies/index.m3u8?token=b8075007377531a6c2dda3be28f55bb9d6fd5c0c-08b245eb1a28c00859dfbfb55197d5a6-1766408969-1766398169
+
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/wthfwe.jpeg" group-title="English",Movies Now HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
