@@ -194,6 +194,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures/default/manifest.mpd
 
 #EXTINF:-1 tvg-id="7" tvg-name="STAR GOLD HD" tvg-logo="https://nettv.fun/playlist/bdix/logo/75.png" group-title="Hindi Movies",STAR GOLD HD
+http://103.166.152.22:8080/roarzone/bk/72/index.m3u8?token=1a16bc21a313aa214be5199189337b3103d095b7-2b989f9b7e1d2131eeaf5a0d3a66ead5-1766408969-1766398169
 https://mrzplayin.fun/roarzon/stream.php?id=3eef0c9777e4ffc85045bb13ffbf12fb&e=.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="SONY MAX HD" tvg-logo="https://nettv.fun/playlist/bdix/logo/sonymaxhd.png" group-title="Hindi Movies",SONY MAX HD
 https://mrzplayin.fun/roarzon/stream.php?id=893cae26e4f3583b49d7eb86e0c27d19&e=.m3u8
