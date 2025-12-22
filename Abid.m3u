@@ -235,10 +235,6 @@ https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561205/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=e4293507d592df040f2186f1ce82a712:fcda490bfd8148179b0e93c5ef0d80e3
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561206/index.mpd
 
-#EXTINF:-1 tvg-id="Blu3Hu5tlerAdult" group-title="Sports" tvg-logo="",Blu3 Hu5tler Adult
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=54393232379c4a57898a8d4d12b6695c:2305a3f727638465116400f7c422af87
-https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560602/index.mpd
 
 #EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="",Go3 Sport 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -366,6 +362,12 @@ https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="watcho",Zee Cinema HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f56beaac9f124616872c741c9ce4fa4e:5d40a903238f4ad98abbed1877d4e3d1
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
+
 
 
 
