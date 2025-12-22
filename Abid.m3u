@@ -105,16 +105,11 @@ https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
 #KODIPROP:inputstream.adaptive.license_key=4023613457774cbeb71a62c339970e63:1c3e9fce5f014542be9cd1f749181204
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol/default/manifest.mpd
 
-#EXTINF:-1 tvg-id="1" tvg-name="Z Action " tvg-logo="https://nettv.fun/playlist/bdix/logo/90.png" group-title="Hindi ",Z Action 
-https://mrzplayin.fun/roarzon/stream.php?id=6e79a5d37e5834e0429a155067223517&e=.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="Z Bollywood " tvg-logo="https://nettv.fun/playlist/bdix/logo/94.png" group-title="Hindi ",Z Bollywood 
-https://mrzplayin.fun/roarzon/stream.php?id=01d7f3c97af4a44173ef21ca6fb5c7c8&e=.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="Z Cafe " tvg-logo="https://nettv.fun/playlist/bdix/logo/69.png" group-title="Hindi ",Z Cafe 
 https://mrzplayin.fun/roarzon/stream.php?id=baacaf168b870ab2f757e7804f9ba59d&e=.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="Z Tv" tvg-logo="https://nettv.fun/playlist/bdix/logo/40.png" group-title="Hindi ",Z Tv
 https://mrzplayin.fun/roarzon/stream.php?id=14af6f57fc69157be22737b60c5183b7&e=.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="Z Anmol" tvg-logo="https://nettv.fun/playlist/bdix/logo/zee-anmol.png" group-title="Hindi ",Z Anmol
-https://mrzplayin.fun/roarzon/stream.php?id=3521b91f5a0e776f527c8634d72d2926&e=.m3u8
+
 #EXTINF:-1 tvg-id="4" tvg-name="SONY SAB" tvg-logo="" group-title="Hindi ",SONY SAB
 http://87.255.35.150:18810
 #EXTINF:-1 tvg-id="5" tvg-name="STAR PLUS HD" tvg-logo="https://nettv.fun/playlist/bdix/logo/67.png" group-title="Hindi ",STAR PLUS HD
@@ -125,18 +120,7 @@ https://mrzplayin.fun/roarzon/stream.php?id=48d674db3aab64240dfc425c1a10d050&e=.
 https://mrzplayin.fun/roarzon/stream.php?id=497f57d36dba1a8e42f821084df702b2&e=.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="Hum Sitarey" tvg-logo="https://nettv.fun/playlist/bdix/logo/humsitarey.png" group-title="Hindi ",Hum Sitarey
 https://mrzplayin.fun/roarzon/stream.php?id=93be990711d9f8977ebe75ae13820dbb&e=.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="& Picture " tvg-logo="https://nettv.fun/playlist/bdix/logo/100.png" group-title="Hindi ",& Picture 
-https://mrzplayin.fun/roarzon/stream.php?id=f1e2d264440ebae7d1f98c8987084dc6&e=.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="SONY MAX HD" tvg-logo="https://nettv.fun/playlist/bdix/logo/sonymaxhd.png" group-title="Hindi ",SONY MAX HD
-https://mrzplayin.fun/roarzon/stream.php?id=893cae26e4f3583b49d7eb86e0c27d19&e=.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="Sony Max" tvg-logo="https://nettv.fun/playlist/bdix/logo/sonymax.png" group-title="Hindi ",Sony Max
-https://mrzplayin.fun/roarzon/stream.php?id=a004143fee5afd56fa42358de7e00170&e=.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="Sony Max 2" tvg-logo="https://nettv.fun/playlist/bdix/logo/sonymax2.png" group-title="Hindi ",Sony Max 2
-https://mrzplayin.fun/roarzon/stream.php?id=a99e6ccb22708a383e350b62edb941c4&e=.m3u8
-#EXTINF:-1 tvg-id="19" tvg-name="ZEE CINEMA HD" tvg-logo="https://nettv.fun/playlist/bdix/logo/76.png" group-title="Hindi ",ZEE CINEMA HD
-https://mrzplayin.fun/roarzon/stream.php?id=1d827bbbe8ce50d2dec15dd0a51111b6&e=.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="STAR GOLD HD" tvg-logo="https://nettv.fun/playlist/bdix/logo/75.png" group-title="Hindi ",STAR GOLD HD
-https://mrzplayin.fun/roarzon/stream.php?id=3eef0c9777e4ffc85045bb13ffbf12fb&e=.m3u8
+
 
 
 ========================================================== HINDI MOVIES ==========================================================================================================
@@ -150,6 +134,15 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8dea532cabfe4f71ba20f62310e7949f:7a214a974e4f4d1d9bb66364d5f0cb92
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures/default/manifest.mpd
+
+#EXTINF:-1 tvg-id="7" tvg-name="STAR GOLD HD" tvg-logo="https://nettv.fun/playlist/bdix/logo/75.png" group-title="Hindi Movies",STAR GOLD HD
+https://mrzplayin.fun/roarzon/stream.php?id=3eef0c9777e4ffc85045bb13ffbf12fb&e=.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="SONY MAX HD" tvg-logo="https://nettv.fun/playlist/bdix/logo/sonymaxhd.png" group-title="Hindi Movies",SONY MAX HD
+https://mrzplayin.fun/roarzon/stream.php?id=893cae26e4f3583b49d7eb86e0c27d19&e=.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="Sony Max" tvg-logo="https://nettv.fun/playlist/bdix/logo/sonymax.png" group-title="Hindi Movies",Sony Max
+https://mrzplayin.fun/roarzon/stream.php?id=a004143fee5afd56fa42358de7e00170&e=.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="Sony Max 2" tvg-logo="https://nettv.fun/playlist/bdix/logo/sonymax2.png" group-title="Hindi Movies",Sony Max 2
+https://mrzplayin.fun/roarzon/stream.php?id=a99e6ccb22708a383e350b62edb941c4&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/EqDlflgi.png" group-title="Hindi Movies",Zee Action
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -166,20 +159,12 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=812411cba8bc42c79eb2b19cd78ad3f3:468a0b8d3d5d42d8a5c41bb875390a74
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema/default/manifest.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Hinde Dabbing Movies
-https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png" group-title="Hindi Movies",Star Gold Romance
-http://119.152.240.15:8000/play/a0ix/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png" group-title="Hindi Movies",B4U Movies
 https://cdnb4u.wiseplayout.com/B4U_Movies/HD1080/HD1080.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png" group-title="Hindi Movies",B4U Kadak
 https://cdn-2.pishow.tv/live/227/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="Hindi Movies",Sheemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Goldmines Movies
-https://cdn-2.pishow.tv/live/1461/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Goldmines Movies 2
-https://cdn-2.pishow.tv/live/1460/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Bollywood HD
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/d3227daf-ea13-48c9-95a4-1619862d136e/0.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Bollywood Classic HD
