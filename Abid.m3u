@@ -5,6 +5,9 @@
 #EXTINF:-1 tvg-id="1" tvg-name="Bangladesh Premier League, 2025-26" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/Logo_of_Bangladesh_Premier_League.svg/500px-Logo_of_Bangladesh_Premier_League.svg.png" group-title="Live",Bangladesh Premier League, 2025-26
 https://bd-mc-fdlive.fancode.com/mumbai/138916_english_hls_03f63abe0162196_1ta-di_h264/index.m3u8
 
+#EXTINF:-1 tvg-id="1" tvg-name="Bangladesh Premier League, 2025-26" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138916_5808_SYL_DBR_fc-web_1766733054236.jpg" group-title="Live", Sylhet Titans vs Rajshahi Warriors
+https://a2uy.unosottor.workers.dev/138916.m3u8
+
 #EXTINF:-1 tvg-id="1" tvg-name="T Sports BD" tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4" group-title="Live",T Sports BD
 https://mrzplayin.fun/roarzon/stream.php?id=cc1213f0ee0c6fc5eb98ca0685a4d223&e=.m3u8
 
