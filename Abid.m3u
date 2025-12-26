@@ -1,9 +1,8 @@
 #EXTM3U 
 
 ========================================================== LIVE ==========================================================================================================
-
-#EXTINF:-1 tvg-id="1" tvg-name="Bangladesh Premier League, 2025-26" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/Logo_of_Bangladesh_Premier_League.svg/500px-Logo_of_Bangladesh_Premier_League.svg.png" group-title="Live",Bangladesh Premier League, 2025-26
-https://bd-mc-fdlive.fancode.com/mumbai/138916_english_hls_03f63abe0162196_1ta-di_h264/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138917_5808_NOE_CCH_fc-web_1766733054113.jpg" group-title="Fancode-Cricket", Chattogram Royals vs Noakhali Express (Bangladesh Premier League- 2025-26)
+https://bd-mc-fdlive.fancode.com/mumbai/138917_english_hls_2ab30a2fb843502_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 tvg-id="1" tvg-name="Bangladesh Premier League, 2025-26" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138916_5808_SYL_DBR_fc-web_1766733054236.jpg" group-title="Live", Sylhet Titans vs Rajshahi Warriors
 https://a2uy.unosottor.workers.dev/138916.m3u8
