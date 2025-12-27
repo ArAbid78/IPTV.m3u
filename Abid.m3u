@@ -5,6 +5,9 @@
 #EXTINF:-1, tvg-logo="https://en.wikipedia.org/wiki/Bangladesh_Premier_League#/media/File:Logo_of_Bangladesh_Premier_League.svg" group-title="Live",Bangladesh Premier League- 2025-26
 https://bd-mc-fdlive.fancode.com/mumbai/138918_english_hls_8b03cfa0b543431_1ta-di_h264/index.m3u8
 
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138918_5808_DC_DBR_fc-web_1766733054099.jpg" group-title="Live", Rajshahi Warriors vs Dhaka Capitals (Bangladesh Premier League- 2025-26)
+https://bd-mc-fdlive.fancode.com/mumbai/138918_english_hls_8b03cfa0b543431_1ta-di_h264/index.m3u8
+
 #EXTINF:-1 tvg-id="1" tvg-name="T Sports BD" tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4" group-title="Live",T Sports BD
 https://tvsen1.aynaott.com/YNMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
 
