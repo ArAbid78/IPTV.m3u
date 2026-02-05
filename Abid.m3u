@@ -18,7 +18,7 @@ https://playztv-apps.pages.dev/rtv/index.m3u8
 https://playztv-apps.pages.dev/asian-tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="BANGLADESH",Desh Tv
 https://playztv-apps.pages.dev/desh-tv/index.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="SATV" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/7/79/%E0%A6%8F%E0%A6%B8%E0%A6%8F_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" group-title="BANGLADESH",SATV
+#EXTINF:-1 tvg-id="2" tvg-name="SATV" tvg-logo="" group-title="BANGLADESH",SATV
 https://playztv-apps.pages.dev/satv/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="DBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="BANGLADESH",DBC
 https://playztv-apps.pages.dev/dbc-news/index.m3u8
@@ -51,37 +51,37 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="Maasranga" tvg-logo="https://nettv.fun/playlist/bdix/logo/51.png" group-title="BANGLADESH",Maasranga
 https://playztv-apps.pages.dev/maasranga-tv/index.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="Boishakhi" tvg-logo="http://tvassets.roarzone.info/images/61.png" group-title="BANGLADESH",Boishakhi
-https://mrzplayin.fun/roarzon/stream.php?id=53579dba04b52a5b6915e28cb31451aa&e=.m3u8
+https://playztv-apps.pages.dev/boishakhi-tv/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="Channel 24" tvg-logo="https://nettv.fun/playlist/bdix/logo/5.png" group-title="BANGLADESH",Channel 24
-https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+https://playztv-apps.pages.dev/channel-24/index.m3u8
+
 #EXTINF:-1 tvg-id="3" tvg-name="Channel I " tvg-logo="https://nettv.fun/playlist/bdix/logo/6.png" group-title="BANGLADESH",Channel I 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
+https://playztv-apps.pages.dev/channel-i/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="Channel 9" tvg-logo="" group-title="BANGLADESH",Channel 9
-https://tvsen6.aynaott.com/channel9/index.m3u8
+https://playztv-apps.pages.dev/channel-9/index.m3u8
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/News24.png",News24
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/playlist.m3u8
+https://playztv-apps.pages.dev/news24/index.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="BANGLADESH",MY TV
-https://tvsen6.aynaott.com/mytv/index.m3u8
+https://playztv-apps.pages.dev/my-tv/index.m3u8
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Ananda_TV.png",Ananda TV
-https://tvsen6.aynaott.com/anandatv/index.m3u8
+https://playztv-apps.pages.dev/ananda-tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="BANGLADESH",Bagnla Tv
-https://tvsen6.aynaott.com/banglatv/index.m3u8
 
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Ekhon.png",Ekhon TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="BANGLADESH",Nexus Tv
-https://tvsen6.aynaott.com/nexustv/index.m3u8
+
 #EXTINF:-1 tvg-id="1" tvg-name="Global TV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Global%20Television%20Bangladesh.png" group-title="BANGLADESH",Global TV
-https://tvsen6.aynaott.com/globaltvhd/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Green%20TV.png" group-title="BANGLADESH",Green TV
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20S.jpeg" group-title="BANGLADESH",Channel S UK HD
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="3" tvg-name="Movie Bangla " tvg-logo="https://nettv.fun/playlist/bdix/logo/86.png" group-title="BANGLADESH",Movie Bangla 
-https://mrzplayin.fun/roarzon/stream.php?id=ca85646836937816ce7f24138fd40fad&e=.m3u8
+
 #EXTINF:-1 tvg-id="3" tvg-name="TARA Bangla Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/6/65/%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A6%BE_%E0%A6%AE%E0%A6%BF%E0%A6%89%E0%A6%9C%E0%A6%BF%E0%A6%95.jpeg" group-title="BANGLADESH",TARA Bangla Movie
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/tara.stream/playlist.m3u8
+
 
 ========================================================== IN-BANGLA ==========================================================================================================
 
