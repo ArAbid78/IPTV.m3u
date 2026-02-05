@@ -22,16 +22,14 @@ https://tvsen1.aynaott.com/YNMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
  
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="BANGLADESH",BTV HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
-https://tvsen6.aynaott.com/btvhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="BANGLADESH",BTV NEWS
-https://tvsen6.aynaott.com/BTVNews/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="BANGLADESH",BTV WORLD
-https://tvsen6.aynaott.com/btv_world/index.m3u8
+https://playztv-apps.pages.dev/btv/index.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="BANGLADESH",BTV CHATTRAGRAM
-https://tvsen6.aynaott.com/btvctg/index.m3u8
+
 #EXTINF:-1 tvg-id="4" tvg-name="Rtv" tvg-logo="https://nettv.fun/playlist/bdix/logo/14.png" group-title="BANGLADESH",Rtv
-https://tvsen5.aynaott.com/RtvHD/index.m3u8
-https://mrzplayin.fun/roarzon/stream.php?id=9fe7c84b8253e88099d47237e0b7367c&e=.m3u8
+https://playztv-apps.pages.dev/rtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="BANGLADESH",ASIAN TV
 https://tvsen6.aynaott.com/asiantv/index.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="BANGLADESH",Desh Tv
