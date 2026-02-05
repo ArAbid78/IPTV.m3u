@@ -54,7 +54,6 @@ https://playztv-apps.pages.dev/maasranga-tv/index.m3u8
 https://playztv-apps.pages.dev/boishakhi-tv/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="Channel 24" tvg-logo="https://nettv.fun/playlist/bdix/logo/5.png" group-title="BANGLADESH",Channel 24
 https://playztv-apps.pages.dev/channel-24/index.m3u8
-
 #EXTINF:-1 tvg-id="3" tvg-name="Channel I " tvg-logo="https://nettv.fun/playlist/bdix/logo/6.png" group-title="BANGLADESH",Channel I 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 https://playztv-apps.pages.dev/channel-i/index.m3u8
@@ -66,19 +65,6 @@ https://playztv-apps.pages.dev/news24/index.m3u8
 https://playztv-apps.pages.dev/my-tv/index.m3u8
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Ananda_TV.png",Ananda TV
 https://playztv-apps.pages.dev/ananda-tv/index.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="BANGLADESH",Bagnla Tv
-
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Ekhon.png",Ekhon TV
-
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="BANGLADESH",Nexus Tv
-
-#EXTINF:-1 tvg-id="1" tvg-name="Global TV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Global%20Television%20Bangladesh.png" group-title="BANGLADESH",Global TV
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Green%20TV.png" group-title="BANGLADESH",Green TV
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20S.jpeg" group-title="BANGLADESH",Channel S UK HD
-
-#EXTINF:-1 tvg-id="3" tvg-name="Movie Bangla " tvg-logo="https://nettv.fun/playlist/bdix/logo/86.png" group-title="BANGLADESH",Movie Bangla 
 
 ========================================================== IN-BANGLA ==========================================================================================================
 
@@ -92,10 +78,6 @@ https://playztv-apps.pages.dev/star-jalsha/index.m3u8
 https://playztv-apps.pages.dev/zee-bangla/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="Sun Bangla " tvg-logo="" group-title="Indian Bangla",Sun Bangla 
 
-#EXTINF:-1 tvg-id="5" tvg-name="Zee Bangla Cinema " tvg-logo="https://nettv.fun/playlist/bdix/logo/29.png" group-title="Indian Bangla",Zee Bangla Cinema 
-
-
-
 ========================================================== Kids ==========================================================================================================
 
 #EXTINF:-1 tvg-id="ZBCartoon.in@HD" tvg-logo="https://i.imgur.com/BbFNpMr.jpeg" group-title="Kids",ZB Cartoon (1080p)
@@ -106,11 +88,11 @@ https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
 ========================================================== MUSIC ========================================================================================================== 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Music.png" group-title="Bangla Music",ATN Music
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="75412270-ce20-4376-8e7f-21fc76f84ed4" tvg-name="Sangeet Bangla" tvg-logo="https://s3.aynaott.com/storage/80424ce0682e14e7d51e28de33d5f380" group-title="Bangla Music",Sangeet Bangla
 https://cdn-4.pishow.tv/live/1143/master.m3u8
 #EXTINF:-1 tvg-id="67d12ffa-059f-4d79-a4e5-b36104d0af06" tvg-name="Dhoom Music Bangla" tvg-logo="https://s3.aynaott.com/storage/370815c239b8b274264792c6da50a639" group-title="Bangla Music",Dhoom Music Bangla
-https://ayna-ott.sm-monirulislam-exp.workers.dev/dhoom/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Bangla Music",Music Bangla
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/musicbangla2025.stream/tracks-v1a1/mono.m3u8
 
@@ -118,7 +100,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 ========================================================== ISLAMIC ==========================================================================================================
 
 #EXTINF:-1 tvg-id="4" tvg-name="Peace tv Bangla" tvg-logo="" group-title="Islamic ",Peace tv Bangla
-https://tvsen7.aynaott.com/PeaceTvBanglaHD/index.m3u8
+
 
 ========================================================== HINDI ==========================================================================================================
 
