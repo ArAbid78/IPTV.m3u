@@ -114,7 +114,7 @@ https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
 
 ========================================================== Documentary ========================================================================================================== 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Animal_Planet.png" group-title="Documentary",Animal Planet HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Animal_Planet.png" group-title="DOCUMENTORY",Animal Planet HD
 #http://66.102.120.18:8000/play/a001/index.m3u8
 http://103.175.73.12:8080/live/328/328_0.m3u8
 
@@ -135,9 +135,31 @@ https://cdn-4.pishow.tv/live/1143/master.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/musicbangla2025.stream/tracks-v1a1/mono.m3u8
 
 
-========================================================== ISLAMIC ==========================================================================================================
+========================================================== Entertainment ==========================================================================================================
 
-#EXTINF:-1 tvg-id="4" tvg-name="Peace tv Bangla" tvg-logo="" group-title="Islamic ",Peace tv Bangla
+
+#EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",Sony entertainment HD
+#http://103.175.73.12:8080/live/250/250_0.m3u8
+http://217.20.112.199/sethd/index.m3u8
+
+#EXTINF:-1 tvg-id="sony-sab-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Entertainment",Sony SAB HD
+#http://103.99.249.139/sonysab/index.m3u8
+#http://217.20.112.199:8888/sabtvhd/index.m3u8
+http://103.175.73.12:8080/live/5/5_0.m3u8
+
+
+#EXTINF:-1 tvg-id="sony-sab-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Entertainment",Sony SAB BSCL FEED
+#http://103.99.249.139/sonysab/index.m3u8
+https://playyonogames.in/sliv/stream.m3u8?id=1000009248|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009248
+
+
+#EXTINF:-1 tvg-id="sony-pal" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="Entertainment",Sony Pal
+http://103.175.73.12:8080/live/11/11_0.m3u8
+
+
+#EXTINF:-1 tvg-id="sony-aath" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Entertainment",Sony Aath
+#http://103.175.242.10:8080/sonyaath/index.m3u8
+http://103.175.73.12:8080/live/196/196_0.m3u8
 
 
 ========================================================== HINDI ==========================================================================================================
