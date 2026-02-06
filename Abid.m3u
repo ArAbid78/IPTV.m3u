@@ -105,9 +105,9 @@ http://103.175.73.12:8080/live/195/195_0.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="STAR JOLSHA HD" tvg-logo="https://nettv.fun/playlist/bdix/logo/30.png" group-title="Indian Bangla",STAR JOLSHA HD
 #https://tvsen1.aynaott.com/gUX8BJmNc2yF/index.m3u8
 #http://cdnd.sonyplex.com:8090/hls/StarJalshaHD.m3u8
-http://103.175.242.10:8080/starjalsha/index.m3u8
+#http://103.175.242.10:8080/starjalsha/index.m3u8
 http://103.175.73.12:8080/live/194/194_0.m3u8
-https://playztv-apps.pages.dev/star-jalsha/index.m3u8
+#https://playztv-apps.pages.dev/star-jalsha/index.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="Zee BANGLA HD " tvg-logo="" group-title="Indian Bangla",Zee BANGLA HD 
 https://playztv-apps.pages.dev/zee-bangla/index.m3u8
@@ -131,7 +131,7 @@ http://103.175.73.12:8080/live/328/328_0.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m61hzPR/20240803-101724.png" group-title="DOCUMENTORY", DISCOVERY
 #https://mexum.vercel.app/restream/hls/discovery_bengali.m3u8
 #http://starshare.st:8080/live/JONGILE@20870pat/PAT0002026/156.ts
-http://stvlive.net:8080/discovery/tracks-v1a1/mono.m3u8
+#http://stvlive.net:8080/discovery/tracks-v1a1/mono.m3u8
 
 ========================================================== MUSIC ========================================================================================================== 
 
@@ -159,8 +159,8 @@ http://103.175.73.12:8080/live/5/5_0.m3u8
 
 
 #EXTINF:-1 tvg-id="sony-sab-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Entertainment",Sony SAB BSCL FEED
-#http://103.99.249.139/sonysab/index.m3u8
-https://playyonogames.in/sliv/stream.m3u8?id=1000009248|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009248
+http://103.99.249.139/sonysab/index.m3u8
+#https://playyonogames.in/sliv/stream.m3u8?id=1000009248|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009248
 
 
 #EXTINF:-1 tvg-id="sony-pal" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="Entertainment",Sony Pal
