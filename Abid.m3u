@@ -148,6 +148,12 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 ========================================================== Entertainment ==========================================================================================================
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="Entertainment",StarPlus HD
+#http://cdnd.sonyplex.com:8090/hls/StarPlusHD.m3u8
+#https://padmaonline.duckdns.org:8088/StarPlusHD/index.m3u8
+#http://103.175.242.10:8080/starplus/index.m3u8
+http://103.175.73.12:8080/live/1/1_0.m3u8
+
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",Sony entertainment HD
 #http://103.175.73.12:8080/live/250/250_0.m3u8
 http://217.20.112.199/sethd/index.m3u8
