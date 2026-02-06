@@ -83,7 +83,8 @@ https://playztv-apps.pages.dev/channel-i/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="Channel 9" tvg-logo="" group-title="BANGLADESH",Channel 9
 https://playztv-apps.pages.dev/channel-9/index.m3u8
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/News24.png",News24
-https://playztv-apps.pages.dev/news24/index.m3u8
+#https://playztv-apps.pages.dev/news24/index.m3u8
+https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/playlist.m3u8|referer=https://www.jagobd.com
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="BANGLADESH",MY TV
 https://playztv-apps.pages.dev/my-tv/index.m3u8
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Ananda_TV.png",Ananda TV
