@@ -92,28 +92,31 @@ https://playztv-apps.pages.dev/my-tv/index.m3u8
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Ananda_TV.png",Ananda TV
 https://playztv-apps.pages.dev/ananda-tv/index.m3u8
 
-========================================================== IN-BANGLA ==========================================================================================================
+========================================================== KOLKATA ==========================================================================================================
 
-#EXTINF:-1 tvg-id="3" tvg-name="COLOR BANGLA HD " tvg-logo="" group-title="Indian Bangla",COLOR BANGLA HD 
+#EXTINF:-1 tvg-id="3" tvg-name="COLOR BANGLA HD " tvg-logo="" group-title="KOLKATA",COLOR BANGLA HD 
 
-#EXTINF:-1 tvg-id="1" tvg-name="Enterr10 Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Enterr10_Bangla_Logo_%282020%29.png/250px-Enterr10_Bangla_Logo_%282020%29.png" group-title="Indian Bangla",Enterr10 Bangla
+#EXTINF:-1 tvg-id="1" tvg-name="Enterr10 Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Enterr10_Bangla_Logo_%282020%29.png/250px-Enterr10_Bangla_Logo_%282020%29.png" group-title="KOLKATA",Enterr10 Bangla
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Indian Bangla",Star Jalsha
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="KOLKATA",Star Jalsha
 http://103.175.73.12:8080/live/195/195_0.m3u8
 
-#EXTINF:-1 tvg-id="1" tvg-name="STAR JOLSHA HD" tvg-logo="https://nettv.fun/playlist/bdix/logo/30.png" group-title="Indian Bangla",STAR JOLSHA HD
+#EXTINF:-1 tvg-id="1" tvg-name="STAR JOLSHA HD" tvg-logo="https://nettv.fun/playlist/bdix/logo/30.png" group-title="KOLKATA",STAR JOLSHA HD
 #https://tvsen1.aynaott.com/gUX8BJmNc2yF/index.m3u8
 #http://cdnd.sonyplex.com:8090/hls/StarJalshaHD.m3u8
 #http://103.175.242.10:8080/starjalsha/index.m3u8
 http://103.175.73.12:8080/live/194/194_0.m3u8
 #https://playztv-apps.pages.dev/star-jalsha/index.m3u8
 
-#EXTINF:-1 tvg-id="2" tvg-name="Zee BANGLA HD " tvg-logo="" group-title="Indian Bangla",Zee BANGLA HD 
+#EXTINF:-1 tvg-id="2" tvg-name="Zee BANGLA HD " tvg-logo="" group-title="KOLKATA",Zee BANGLA HD 
 https://playztv-apps.pages.dev/zee-bangla/index.m3u8
 
-#EXTINF:-1 tvg-id="1" tvg-name="Sun Bangla " tvg-logo="" group-title="Indian Bangla",Sun Bangla 
+#EXTINF:-1 tvg-id="1" tvg-name="Sun Bangla " tvg-logo="" group-title="KOLKATA",Sun Bangla 
 http://sananda.bengaldigital.live/Sun_Bangla/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NF5M3vk/20240803-164348.png" group-title="KOLKATA",Colors Bangla Cinema
+http://103.175.73.12:8080/live/441/441_0.m3u8
 
 ========================================================== Kids ==========================================================================================================
 
@@ -232,11 +235,6 @@ https://mrzplayin.fun/roarzon/stream.php?id=93be990711d9f8977ebe75ae13820dbb&e=.
 
 ========================================================== HINDI MOVIES ==========================================================================================================
 
-#EXTINF:-1,&EXPLOR HD
-http://103.175.73.12:8080/live/268/268_0.m3u8
-#EXTINF:-1, COLORS INFINITY HD
-http://103.175.73.12:8080/live/28/28_0.m3u8
-
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="Hindi Movies",Zee Cinema HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f56beaac9f124616872c741c9ce4fa4e:5d40a903238f4ad98abbed1877d4e3d1
@@ -247,9 +245,21 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=8dea532cabfe4f71ba20f62310e7949f:7a214a974e4f4d1d9bb66364d5f0cb92
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures/default/manifest.mpd
 
-#EXTINF:-1 tvg-id="7" tvg-name="STAR GOLD HD" tvg-logo="https://nettv.fun/playlist/bdix/logo/75.png" group-title="Hindi Movies",STAR GOLD HD
-http://103.166.152.22:8080/roarzone/bk/72/index.m3u8?token=1a16bc21a313aa214be5199189337b3103d095b7-2b989f9b7e1d2131eeaf5a0d3a66ead5-1766408969-1766398169
-https://mrzplayin.fun/roarzon/stream.php?id=3eef0c9777e4ffc85045bb13ffbf12fb&e=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold_logo.png" group-title="Hindi Movies",Star Gold HD
+#http://103.175.73.12:8080/live/30/30_0.m3u8
+#http://tvn2.chowdhury-shaheb.com/stargold/index.m3u8
+http://103.175.73.12:8080/live/30/30_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold2_hd.png" group-title="Hindi Movies",Star Gold 2 HD
+http://103.175.73.12:8080/live/433/433_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_gold_select_hd.png" group-title="Hindi Movies",Star Gold Select HD
+#http://cdnd.sonyplex.com:8090/hls/StarGoldHD.m3u8
+http://103.175.73.12:8080/live/40/40_0.m3u8
+
+#EXTINF:-1,STAR UTSAV MOVIES
+http://103.175.73.12:8080/live/42/42_0.m3u8
+
 #EXTINF:-1 tvg-id="6" tvg-name="SONY MAX HD" tvg-logo="https://nettv.fun/playlist/bdix/logo/sonymaxhd.png" group-title="Hindi Movies",SONY MAX HD
 https://mrzplayin.fun/roarzon/stream.php?id=893cae26e4f3583b49d7eb86e0c27d19&e=.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="Sony Max" tvg-logo="https://nettv.fun/playlist/bdix/logo/sonymax.png" group-title="Hindi Movies",Sony Max
@@ -289,51 +299,57 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 ========================================================== ENGLISH ==========================================================================================================
 
-#EXTINF:-1 tvg-id="English &Flix SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfrM0RN7qcdX9Y7_KpWUYXZM9nhjWDr0TlhA&usqp=CAU" group-title="English",&flix
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
-https://edge3-moblive.yuppcdn.net:443/drm/smil:nflixdrm.smil/manifest.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/star_movies_hd.png" group-title="ENGLISH",Star Movies HD
+http://103.175.73.12:8080/live/56/56_0.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/vijay-iptv/logos/refs/heads/main/Star_Movies_Select_HD.png" group-title="ENGLISH",Star Movies Select HD
+http://103.175.73.12:8080/live/60/60_0.m3u8
 
-#EXTINF:-1 tvg-id="star movies" tvg-name="star movies" tvg-logo="http://tvassets.roarzone.info/images/starmovies.png" group-title="English",star movies
-http://103.166.152.22:8080/roarzone/bk/starmovies/index.m3u8?token=b8075007377531a6c2dda3be28f55bb9d6fd5c0c-08b245eb1a28c00859dfbfb55197d5a6-1766408969-1766398169
+#EXTINF:-1 tvg-id="colorscineplexbollywood" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/colorscineplexbollywood.png" group-title="ENGLISH",Colors Cineplex Bollywood
+http://103.175.73.12:8080/live/437/437_0.m3u8
 
-#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/wthfwe.jpeg" group-title="English",Movies Now HD
+#EXTINF:-1 group-title="ENGLISH",&EXPLOR HD
+http://103.175.73.12:8080/live/268/268_0.m3u8
+
+#EXTINF:-1 group-title="ENGLISH", COLORS INFINITY HD
+http://103.175.73.12:8080/live/28/28_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/wthfwe.jpeg" group-title="ENGLISH",Movies Now HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="English",HBO HD
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="ENGLISH",HBO HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohd/default/index.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="English",HBO Hits
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="ENGLISH",HBO Hits
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohits/default1/index.mpd
 
-#EXTINF:-1 tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png" group-title="English",HBO Family
+#EXTINF:-1 tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png" group-title="ENGLISH",HBO Family
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbofam/default/index.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="English", HBO Signature
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="ENGLISH", HBO Signature
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.mpd
 
-#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/vunjev.jpeg" group-title="English",MNX HD
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/vunjev.jpeg" group-title="ENGLISH",MNX HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
 
-#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/leazcc.jpeg" group-title="English",MN+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/leazcc.jpeg" group-title="ENGLISH",MN+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 
-#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/nchght.jpeg" group-title="English",Romedy Now
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/nchght.jpeg" group-title="ENGLISH",Romedy Now
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
@@ -341,13 +357,30 @@ https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 ========================================================== Sports ==========================================================================================================
 
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",A Sports
-https://tvsen6.aynaott.com/asports/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",T Sports
-https://tvsen7.aynaott.com/tsportsfhd/index.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",Star Sports 2 HD
-https://tvsen7.aynaott.com/ssport2hd/index.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",Star Sports 1 HD
-https://tvsen7.aynaott.com/sspts1/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1600px-Star_Sports_1_HD.png" group-title="Sports",Star Sports 1
+#http://103.99.249.139/starsport1/index.m3u8
+#http://tvn1.chowdhury-shaheb.com/starsport1/index.m3u8
+http://103.175.73.12:8080/live/65/65_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180611/pks/aa8l5aros.webp" group-title="Sports",Star Sports 2 hd
+#http://cdnd.sonyplex.com:8090/hls/StarSports2HD.m3u8
+http://103.175.73.12:8080/live/67/67_0.m3u8
+
+#EXTINF:-1 tvg-id="3" tvg-name="Star Sports Select 1" tvg-logo="https://s3.aynaott.com/storage/c96957383c33f1948e34fdcc07fbc29f" group-title="Sports",Star Sports Select 1
+#https://mrzplayin.fun/roarzon/stream.php?id=b8966a010354b3b97eb8c050ea73460f&e=.m3u8
+http://103.175.73.12:8080/live/281/281_0.m3u8
+
+#EXTINF:-1 tvg-id="4" tvg-name="Star Sports Select 2 HD" tvg-logo="https://s3.aynaott.com/storage/16ee3a1243424dfe8f4341a90afbd46e" group-title="Sports",Star Sports Select 2 HD
+#https://mrzplayin.fun/roarzon/stream.php?id=cf33278a403f3b61fc708fb1cc2676df&e=.m3u8
+http://103.175.73.12:8080/live/282/282_0.m3u8
+
+#EXTINF:-1 tvg-id="2" tvg-name="Ten Cricket " tvg-logo="https://nettv.fun/playlist/bdix/logo/ten_cricket.png" group-title="Sports",Ten Cricket 
+https://mrzplayin.fun/roarzon/stream.php?id=212f6ccc690a978b72b758522a82d9b4&e=.m3u8
+
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",Sony Ten  1 HD
 https://tvsen5.aynaott.com/snTn1HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",Ptv Sports HD
@@ -356,12 +389,6 @@ https://tvsen7.aynaott.com/wJf84zDS/index.m3u8
 https://tvsen6.aynaott.com/btSport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",TNT Sports 2
 https://tvsen6.aynaott.com/btSport2/index.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="Star Sports Select 1" tvg-logo="https://s3.aynaott.com/storage/c96957383c33f1948e34fdcc07fbc29f" group-title="Sports",Star Sports Select 1
-https://mrzplayin.fun/roarzon/stream.php?id=b8966a010354b3b97eb8c050ea73460f&e=.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="Star Sports Select 2 HD" tvg-logo="https://s3.aynaott.com/storage/16ee3a1243424dfe8f4341a90afbd46e" group-title="Sports",Star Sports Select 2 HD
-https://mrzplayin.fun/roarzon/stream.php?id=cf33278a403f3b61fc708fb1cc2676df&e=.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="Ten Cricket " tvg-logo="https://nettv.fun/playlist/bdix/logo/ten_cricket.png" group-title="Sports",Ten Cricket 
-https://mrzplayin.fun/roarzon/stream.php?id=212f6ccc690a978b72b758522a82d9b4&e=.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sports",TSN 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
