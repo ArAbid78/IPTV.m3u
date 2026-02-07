@@ -45,23 +45,33 @@ https://playztv-apps.pages.dev/desh-tv/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="SATV" tvg-logo="" group-title="BANGLADESH",SATV
 #https://playztv-apps.pages.dev/satv/index.m3u8
 http://116.204.149.16/satv/index.m3u8
+
 #EXTINF:-1 tvg-id="3" tvg-name="DBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="BANGLADESH",DBC
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/tracks-v1a1/mono.m3u8
 https://playztv-apps.pages.dev/dbc-news/index.m3u8
+
 #EXTINF:-1 tvg-id="1" tvg-name="Ekattor" tvg-logo="https://nettv.fun/playlist/bdix/logo/11.png" group-title="BANGLADESH",Ekattor
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/ekattor.stream/tracks-v1a1/mono.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 https://playztv-apps.pages.dev/ekattor-tv/index.m3u8
+
 #EXTINF:-1 tvg-id="2" tvg-name="Independent " tvg-logo="https://nettv.fun/playlist/bdix/logo/12.png" group-title="BANGLADESH",Independent 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 https://playztv-apps.pages.dev/independent-tv/index.m3u8
+
 #EXTINF:-1 tvg-id="3" tvg-name="Jamuna" tvg-logo="https://nettv.fun/playlist/bdix/logo/13.png" group-title="BANGLADESH",Jamuna
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 https://playztv-apps.pages.dev/jamuna-tv/index.m3u8
+
 #EXTINF:-1 tvg-id="4" tvg-name="NTV " tvg-logo="https://www.ntvbd.com/sites/default/files/aggregator/2020/02/17/ntv-channel_0.jpg" group-title="BANGLADESH",NTV 
 https://playztv-apps.pages.dev/ntv/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+
 #EXTINF:-1 tvg-id="5" tvg-name="ATN Bangla " tvg-logo="https://nettv.fun/playlist/bdix/logo/2.png" group-title="BANGLADESH",ATN Bangla 
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/tracks-v1a1/mono.m3u8
 https://playztv-apps.pages.dev/atn-bangla/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+
 #EXTINF:-1 tvg-id="1" tvg-name="ATN NEWS " tvg-logo="https://nettv.fun/playlist/bdix/logo/49.png" group-title="BANGLADESH",ATN NEWS 
 https://playztv-apps.pages.dev/atn-news/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="Somoy " tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c4/SOMOY_TV_Logo.svg" group-title="BANGLADESH",Somoy 
@@ -77,13 +87,20 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 https://playztv-apps.pages.dev/maasranga-tv/index.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="Boishakhi" tvg-logo="http://tvassets.roarzone.info/images/61.png" group-title="BANGLADESH",Boishakhi
 https://playztv-apps.pages.dev/boishakhi-tv/index.m3u8
+
 #EXTINF:-1 tvg-id="2" tvg-name="Channel 24" tvg-logo="https://nettv.fun/playlist/bdix/logo/5.png" group-title="BANGLADESH",Channel 24
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channel24-sg-e8e.stream/tracks-v1a1/mono.m3u8
 https://playztv-apps.pages.dev/channel-24/index.m3u8
+
 #EXTINF:-1 tvg-id="3" tvg-name="Channel I " tvg-logo="https://nettv.fun/playlist/bdix/logo/6.png" group-title="BANGLADESH",Channel I 
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-org.stream/tracks-v1a1/mono.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 https://playztv-apps.pages.dev/channel-i/index.m3u8
+
 #EXTINF:-1 tvg-id="2" tvg-name="Channel 9" tvg-logo="" group-title="BANGLADESH",Channel 9
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channel9hd.stream/tracks-v1a1/mono.m3u8
 https://playztv-apps.pages.dev/channel-9/index.m3u8
+
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/News24.png",News24
 #https://playztv-apps.pages.dev/news24/index.m3u8
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/playlist.m3u8|referer=https://www.jagobd.com
